@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.efcc2ab0.css",
+    "main.js": "/static/js/main.4f3a07c0.js",
+    "static/media/me.png": "/static/media/me.dc93189d8b17e387bffa.png",
+    "static/media/netmeds.png": "/static/media/netmeds.5a3c3ca52a1acb3e890c.png",
+    "static/media/hubspot.png": "/static/media/hubspot.b00f617eb964cf7dd91e.png",
+    "static/media/45-degree-fabric-light.png": "/static/media/45-degree-fabric-light.3e9170690495094b2f13.png",
+    "static/media/sayeed_anwar_Resume.pdf": "/static/media/sayeed_anwar_Resume.b6a934ceff6619143663.pdf",
+    "index.html": "/index.html",
+    "main.efcc2ab0.css.map": "/static/css/main.efcc2ab0.css.map",
+    "main.4f3a07c0.js.map": "/static/js/main.4f3a07c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efcc2ab0.css",
+    "static/js/main.4f3a07c0.js"
+  ]
+}
